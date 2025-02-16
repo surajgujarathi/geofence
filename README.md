@@ -1,6 +1,7 @@
 # geofence
 
 A new Flutter project.
+using geolocator and geocoding 
 
 ## Getting Started
 
