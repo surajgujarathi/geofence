@@ -7,6 +7,12 @@ using geolocator and geocoding
 ## SCREENSHOT-1
 <img src='https://github.com/surajgujarathi/geofence/blob/main/assets/sc1.jpeg' height=400/> 
 
+## SCREENSHOT-2
+<img src='https://github.com/surajgujarathi/geofence/blob/main/assets/sc2.jpeg' height=400/> 
+
+## SCREENSHOT-3
+<img src='https://github.com/surajgujarathi/geofence/blob/main/assets/sc3.jpeg' height=400/> 
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
