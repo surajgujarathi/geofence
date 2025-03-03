@@ -4,6 +4,8 @@ A new Flutter project.
 using geolocator and geocoding 
 
 ## Getting Started
+## SCREENSHOT-1
+<img src='https://github.com/surajgujarathi/geofence/blob/main/assets/sc1.jpeg' height=400/> 
 
 This project is a starting point for a Flutter application.
 
